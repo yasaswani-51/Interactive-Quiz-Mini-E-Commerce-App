@@ -19,6 +19,7 @@ A simple task manager built with HTML, CSS and vanilla JavaScript.
 - Task text is displayed with `textContent`, never `innerHTML`, to prevent code injection.
 
 ## Run locally
+link- file:///C:/Users/HP/Downloads/To-Do%20List%20with%20LocalStorage.html
 Open the folder in VS Code and start it with the Live Server extension (or just open `index.html`).
 
 ## Files
